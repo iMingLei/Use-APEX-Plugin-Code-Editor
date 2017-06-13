@@ -1,6 +1,6 @@
 # Use-APEX-Plugin-Code-Editor
 
-See more: https://iminglei.blogspot.com/
+See more: https://iminglei.blogspot.ca/2017/06/use-plugin-code-editor-part-14-demo.html
 
 
 Note:
